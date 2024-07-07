@@ -19,4 +19,4 @@ This project consists of a classic yearly calendar program implemented in C. It 
 - <b>C</b>
 
 <h2>Environments Used </h2>
-- <b>Windows 10</b> (24H2)
+- <b>Windows 10</b> (24H1)
